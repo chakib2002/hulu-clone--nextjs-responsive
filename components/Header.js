@@ -21,7 +21,7 @@ export default function Header() {
                 <HeaderItem title="ACCOUNT" Icon={UserIcon}/>
             </div>
             <Image 
-                className='object-contain cursor-pointer hover:scale-105 transform transition ease-out active:scale-90'
+                className='object-contain cursor-pointer hover:scale-105 transform transition duration-700 ease-out active:scale-90'
                 src="https://links.papareact.com/ua6"
                 width={200}
                 height={100} />
